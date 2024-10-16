@@ -1,0 +1,48 @@
+<!--Question1: This Question is done by Saurabh Chawla and my Student ID is 0838092 and my program name is Mobile Development Applications(MDA)-->
+<?xml version = "1.0" ?>
+<Inventory>
+          <Title>Ottoman Empire Furniture Inventory</Title>
+          <LastInventoried>May 2, 2021</LastInventoried>
+          <Furniture>
+                    <Type>Sofa</Type>
+                    <Style>Flared Arm</Style>
+                    <Manufacturer>Ibiza</Manufacturer>
+                    <Length>80.3 Inches</Length>
+                    <Color>Cranberry</Color>
+                    <Price>$539.99 CDN</Price>
+                    <ShippingCosts>Free</ShippingCosts>
+
+                    <Type>Sofa</Type>
+                    <Style>Round Arm Sleeper</Style>
+                    <Manufacturer>George Oliver</Manufacturer>
+                    <Length>77 Inches</Length>
+                    <Color>Pumpkin</Color>
+                    <Price>$529.99 CDN</Price>
+                    <ShippingCosts>$45.99</ShippingCosts>
+
+                    <Type>Sofa</Type>
+                    <Style>Faux Leather Tufted Back Convertible</Style>
+                    <Manufacturer>Mercury Row</Manufacturer>
+                    <Length>193 cm</Length>
+                    <Color>White</Color>
+                    <Price>$569.99 CDN</Price>
+                    <ShippingCosts>Free</ShippingCosts>
+                    
+                    <Type>Sofa</Type>
+                    <Style>Faux Leather Wide Pillow Top Arm</Style>
+                    <Manufacturer>Wrought Studio</Manufacturer>
+                    <Length>60 Inches</Length>
+                    <Color>White/Black</Color>
+                    <Price>$386.99 CDN</Price>
+                    <ShippingCosts>Free</ShippingCosts>
+
+                    <Type>Sofa</Type>
+                    <Style>Square Arm Sofa</Style>
+                    <Manufacturer>Corrigan Studio</Manufacturer>
+                    <Length>72 Inches</Length>
+                    <Color>Gold</Color>
+                    <Price>$619.99</Price>
+                    <ShippingCosts>$64.22</ShippingCosts>
+          </Furniture>
+</Inventory>         
+                    
